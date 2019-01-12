@@ -1,0 +1,1941 @@
+<2014/09/11 07:21:23>   Frame Rate = 10 mem Libre: 10 MB-min = 10   Cargada imagenImagen.png
+<2014/09/11 07:21:23>   Frame Rate = 10 mem Libre: 10 MB-min = 10   Establecido frameRate = 30
+<2014/09/11 07:21:23>   Frame Rate = 10 mem Libre: 10 MB-min = 10   Tamaño pantalla = 1600 x 900
+<2014/09/11 07:21:44>   Frame Rate = 10 mem Libre: 23 MB-min = 10   Inicializada cámara name=Logitech Camera,size=1280x960,fps=30
+<2014/09/11 07:21:44>   Frame Rate = 10 mem Libre: 26 MB-min = 10   Copiados los ficheros de datos
+<2014/09/11 07:21:44>   Frame Rate = 10 mem Libre: 25 MB-min = 10   Abierto el puerto /dev/tty.usbmodem621 a 9600 bps
+<2014/09/11 07:21:45>   Frame Rate = 9 mem Libre: 34 MB-min = 10   Muestra 0 -> 4	Larvas de Rodaballo	
+<2014/09/11 07:21:45>   Frame Rate = 8 mem Libre: 30 MB-min = 10   Avanzando muestra
+<2014/09/11 07:21:47>   Frame Rate = 24 mem Libre: 28 MB-min = 10   Muestra 4 -> 2	Larvas de Artemia	
+<2014/09/11 07:21:48>   Frame Rate = 16 mem Libre: 20 MB-min = 10   Avanzando muestra
+<2014/09/11 07:21:50>   Frame Rate = 22 mem Libre: 20 MB-min = 10   Muestra 2 -> 2	Larvas de Artemia	
+<2014/09/11 07:21:50>   Frame Rate = 19 mem Libre: 17 MB-min = 10   Avanzando muestra
+<2014/09/11 07:21:52>   Frame Rate = 23 mem Libre: 22 MB-min = 10   Muestra 2 -> 2	Larvas de Artemia	
+<2014/09/11 07:21:53>   Frame Rate = 20 mem Libre: 19 MB-min = 10   Avanzando muestra
+<2014/09/11 07:21:55>   Frame Rate = 23 mem Libre: 27 MB-min = 10   Muestra 2 -> 0**	Semilla de mejillón	
+<2014/09/11 07:22:25>   Frame Rate = 21 mem Libre: 25 MB-min = 10   Seguimos en muestra 0
+<2014/09/11 07:22:56>   Frame Rate = 21 mem Libre: 28 MB-min = 10   Seguimos en muestra 0
+<2014/09/11 07:23:27>   Frame Rate = 20 mem Libre: 31 MB-min = 10   Seguimos en muestra 0
+<2014/09/11 07:23:58>   Frame Rate = 21 mem Libre: 25 MB-min = 10   Seguimos en muestra 0
+<2014/09/11 07:24:29>   Frame Rate = 22 mem Libre: 9 MB-min = 9   Seguimos en muestra 0
+INVOCANDO EL GARBAGE COLLECTOR ... 
+<2014/09/11 07:24:29>   Frame Rate = 22 mem Libre: 36 MB  (1)   Seguimos en muestra 0
+<2014/09/11 07:25:00>   Frame Rate = 22 mem Libre: 34 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:25:31>   Frame Rate = 21 mem Libre: 32 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:26:02>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:26:33>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:27:04>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:27:35>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:28:06>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:28:37>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:29:08>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:29:39>   Frame Rate = 20 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:30:10>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:30:41>   Frame Rate = 20 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:31:12>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:31:43>   Frame Rate = 23 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:32:14>   Frame Rate = 23 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:32:45>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:33:16>   Frame Rate = 20 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:33:47>   Frame Rate = 23 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:34:18>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:34:49>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:35:20>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:35:51>   Frame Rate = 20 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:36:22>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:36:53>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:37:24>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:37:55>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:38:26>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:38:57>   Frame Rate = 23 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:39:28>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:39:59>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:40:30>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:41:01>   Frame Rate = 20 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:41:32>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:42:03>   Frame Rate = 20 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:42:34>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:43:05>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:43:36>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:44:07>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:44:38>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:45:09>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:45:40>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:46:11>   Frame Rate = 20 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:46:42>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:47:13>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:47:44>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:48:15>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:48:46>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:49:17>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:49:48>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:50:19>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:50:50>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:51:21>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:51:52>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:52:23>   Frame Rate = 20 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:52:54>   Frame Rate = 20 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:53:25>   Frame Rate = 21 mem Libre: 31 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:53:56>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:54:27>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:54:58>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:55:29>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:56:00>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:56:31>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:57:02>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:57:33>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:58:04>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:58:35>   Frame Rate = 23 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:59:06>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 07:59:37>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:00:08>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:00:39>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:01:10>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:01:41>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:02:12>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:02:43>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:03:14>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:03:45>   Frame Rate = 24 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:04:16>   Frame Rate = 20 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:04:47>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:05:18>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:05:49>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:06:20>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:06:51>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:07:22>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:07:53>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:08:24>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:08:55>   Frame Rate = 20 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:09:26>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:09:57>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:10:28>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:10:59>   Frame Rate = 20 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:11:30>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:12:01>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:12:32>   Frame Rate = 24 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:13:03>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:13:34>   Frame Rate = 24 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:14:05>   Frame Rate = 23 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:14:36>   Frame Rate = 20 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:15:07>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:15:38>   Frame Rate = 24 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:16:09>   Frame Rate = 20 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:16:40>   Frame Rate = 23 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:17:11>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:17:42>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:18:13>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:18:44>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:19:15>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:19:46>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:20:17>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:20:48>   Frame Rate = 23 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:21:19>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:21:50>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:22:21>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:22:52>   Frame Rate = 24 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:23:23>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:23:54>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:24:25>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:24:56>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:25:27>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:25:58>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:26:29>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:27:00>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:27:31>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:28:02>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:28:33>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:29:04>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:29:35>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:30:06>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:30:37>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:31:08>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:31:39>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:32:10>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:32:41>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:33:12>   Frame Rate = 20 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:33:43>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:34:14>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:34:45>   Frame Rate = 23 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:35:16>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:35:47>   Frame Rate = 23 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:36:18>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:36:49>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:37:20>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:37:51>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:38:22>   Frame Rate = 23 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:38:53>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:39:24>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:39:55>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:40:26>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:40:57>   Frame Rate = 23 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:41:28>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:41:59>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:42:30>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:43:01>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:43:32>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:44:03>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:44:34>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:45:05>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:45:36>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:46:07>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:46:38>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:47:09>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:47:40>   Frame Rate = 20 mem Libre: 31 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:48:11>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:48:42>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:49:13>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:49:44>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:50:15>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:50:46>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:51:17>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:51:48>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:52:19>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:52:50>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:53:21>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:53:52>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:54:23>   Frame Rate = 23 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:54:54>   Frame Rate = 20 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:55:25>   Frame Rate = 23 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:55:56>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:56:27>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:56:58>   Frame Rate = 23 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:57:29>   Frame Rate = 20 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:58:00>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:58:31>   Frame Rate = 23 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:59:02>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 08:59:33>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:00:04>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:00:35>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:01:06>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:01:37>   Frame Rate = 20 mem Libre: 31 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:02:08>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:02:39>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:03:10>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:03:41>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:04:12>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:04:43>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:05:14>   Frame Rate = 20 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:05:45>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:06:16>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:06:47>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:07:18>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:07:49>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:08:20>   Frame Rate = 23 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:08:51>   Frame Rate = 23 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:09:22>   Frame Rate = 23 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:09:53>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:10:24>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:10:55>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:11:26>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:11:57>   Frame Rate = 23 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:12:28>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:12:59>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:13:30>   Frame Rate = 23 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:14:01>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:14:32>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:15:03>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:15:34>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:16:05>   Frame Rate = 24 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:16:36>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:17:07>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:17:38>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:18:09>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:18:40>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:19:11>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:19:42>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:20:13>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:20:44>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:21:15>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:21:46>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:22:17>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:22:48>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:23:19>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:23:50>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:24:21>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:24:52>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:25:23>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:25:54>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:26:25>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:26:56>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:27:27>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:27:58>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:28:29>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:29:00>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:29:31>   Frame Rate = 23 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:30:02>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:30:33>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:31:04>   Frame Rate = 23 mem Libre: 31 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:31:35>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:32:06>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:32:37>   Frame Rate = 24 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:33:08>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:33:39>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:34:10>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:34:41>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:35:12>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:35:43>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:36:14>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:36:45>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:37:16>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:37:47>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:38:18>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:38:49>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:39:20>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:39:51>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:40:22>   Frame Rate = 20 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:40:53>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:41:24>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:41:55>   Frame Rate = 24 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:42:26>   Frame Rate = 24 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:42:57>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:43:28>   Frame Rate = 24 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:43:59>   Frame Rate = 23 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:44:30>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:45:01>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:45:32>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:46:03>   Frame Rate = 21 mem Libre: 31 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:46:34>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:47:05>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:47:36>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:48:07>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:48:38>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:49:09>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:49:40>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:50:11>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:50:42>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:51:13>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:51:44>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:52:15>   Frame Rate = 20 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:52:46>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:53:17>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:53:48>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:54:19>   Frame Rate = 20 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:54:50>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:55:21>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:55:52>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:56:23>   Frame Rate = 23 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:56:54>   Frame Rate = 23 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:57:25>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:57:56>   Frame Rate = 23 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:58:27>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:58:58>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 09:59:29>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:00:00>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:00:31>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:01:02>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:01:33>   Frame Rate = 23 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:02:04>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:02:35>   Frame Rate = 19 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:03:06>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:03:37>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:04:08>   Frame Rate = 23 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:04:39>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:05:10>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:05:41>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:06:12>   Frame Rate = 20 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:06:43>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:07:14>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:07:45>   Frame Rate = 20 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:08:16>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:08:47>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:09:18>   Frame Rate = 23 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:09:49>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:10:20>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:10:51>   Frame Rate = 23 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:11:22>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:11:53>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:12:24>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:12:55>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:13:26>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:13:57>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:14:28>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:14:59>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:15:30>   Frame Rate = 20 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:16:01>   Frame Rate = 24 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:16:32>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:17:03>   Frame Rate = 23 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:17:34>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:18:05>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:18:36>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:19:07>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:19:38>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:20:09>   Frame Rate = 23 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:20:40>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:21:11>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:21:42>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:22:13>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:22:44>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:23:15>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:23:46>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:24:17>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:24:48>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:25:19>   Frame Rate = 20 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:25:50>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:26:21>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:26:52>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:27:23>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:27:54>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:28:25>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:28:56>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:29:27>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:29:58>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:30:29>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:31:00>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:31:31>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:32:02>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:32:33>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:33:04>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:33:35>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:34:06>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:34:37>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:35:08>   Frame Rate = 20 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:35:39>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:36:10>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:36:41>   Frame Rate = 23 mem Libre: 31 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 10:36:49>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Avanzando muestra
+<2014/09/11 10:36:51>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 10:37:21>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:37:52>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:38:23>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:38:54>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:39:25>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:39:56>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:40:27>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:40:58>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:41:29>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:42:00>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:42:31>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:43:02>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:43:33>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:44:04>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:44:35>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:45:06>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:45:37>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:46:08>   Frame Rate = 23 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:46:39>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:47:10>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:47:41>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:48:12>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:48:43>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:49:14>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:49:45>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:50:16>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:50:47>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:51:18>   Frame Rate = 20 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:51:49>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:52:20>   Frame Rate = 20 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:52:51>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:53:22>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:53:53>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:54:24>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:54:55>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:55:26>   Frame Rate = 23 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:55:57>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:56:28>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:56:59>   Frame Rate = 23 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:57:30>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:58:01>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:58:32>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:59:03>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 10:59:34>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:00:05>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:00:36>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:01:07>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:01:38>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:02:09>   Frame Rate = 23 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:02:40>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:03:11>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:03:42>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:04:13>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:04:44>   Frame Rate = 22 mem Libre: 31 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:05:15>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:05:46>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:06:17>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:06:48>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:07:19>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:07:50>   Frame Rate = 20 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:08:21>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:08:52>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:09:23>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:09:54>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:10:25>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:10:56>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:11:27>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:11:58>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:12:29>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:13:00>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:13:31>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:14:02>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:14:33>   Frame Rate = 23 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:15:04>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:15:35>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:16:06>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:16:37>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:17:08>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:17:39>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:18:10>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:18:41>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:19:12>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:19:43>   Frame Rate = 20 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:20:14>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:20:45>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:21:16>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:21:47>   Frame Rate = 23 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:22:18>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:22:49>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:23:20>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:23:51>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:24:22>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:24:53>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:25:24>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:25:55>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:26:26>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:26:57>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:27:28>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:27:59>   Frame Rate = 23 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:28:30>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:29:01>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:29:32>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:30:03>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:30:34>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:31:05>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:31:36>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:32:07>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:32:38>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:33:09>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:33:40>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 11:33:49>   Frame Rate = 23 mem Libre: 14 MB-min = 9   Avanzando muestra
+<2014/09/11 11:33:51>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 11:34:21>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:34:25>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Avanzando muestra
+<2014/09/11 11:34:26>   Frame Rate = 23 mem Libre: 20 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 11:34:57>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 11:35:04>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Avanzando muestra
+<2014/09/11 11:35:06>   Frame Rate = 23 mem Libre: 18 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 11:35:11>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Avanzando muestra
+<2014/09/11 11:35:13>   Frame Rate = 23 mem Libre: 20 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 11:35:43>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 11:35:44>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Avanzando muestra
+<2014/09/11 11:35:46>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 11:35:57>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Avanzando muestra
+<2014/09/11 11:35:59>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 11:36:10>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Avanzando muestra
+<2014/09/11 11:36:12>   Frame Rate = 23 mem Libre: 18 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 11:36:17>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Avanzando muestra
+<2014/09/11 11:36:19>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 11:36:23>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Avanzando muestra
+<2014/09/11 11:36:25>   Frame Rate = 23 mem Libre: 17 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 11:36:55>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:37:26>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:37:57>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:38:28>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:38:59>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:39:30>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:40:01>   Frame Rate = 23 mem Libre: 23 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:40:32>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:41:03>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:41:34>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:42:05>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:42:36>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:43:07>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:43:38>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:44:09>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:44:40>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:45:11>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:45:42>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:46:13>   Frame Rate = 20 mem Libre: 21 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:46:44>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:47:15>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:47:46>   Frame Rate = 23 mem Libre: 22 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:48:17>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:48:48>   Frame Rate = 20 mem Libre: 24 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:49:19>   Frame Rate = 23 mem Libre: 24 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:49:50>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:50:21>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:50:52>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:51:23>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:51:54>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:52:25>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:52:56>   Frame Rate = 20 mem Libre: 29 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:53:27>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:53:58>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:54:29>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:55:00>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:55:31>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:56:02>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:56:33>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:57:04>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:57:35>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:58:06>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:58:37>   Frame Rate = 23 mem Libre: 18 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:59:08>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 11:59:39>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:00:10>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:00:41>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:01:12>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:01:43>   Frame Rate = 20 mem Libre: 22 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:02:14>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:02:45>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:03:16>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:03:47>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:04:18>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:04:49>   Frame Rate = 20 mem Libre: 26 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:05:20>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:05:51>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:06:22>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:06:53>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:07:24>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:07:55>   Frame Rate = 22 mem Libre: 13 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:08:26>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:08:57>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:09:28>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:09:59>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:10:30>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:11:01>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:11:32>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:12:03>   Frame Rate = 20 mem Libre: 19 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:12:34>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:13:05>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:13:36>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:14:07>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:14:38>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:15:09>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:15:40>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:16:11>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:16:42>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:17:13>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:17:44>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:18:15>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:18:46>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:19:17>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:19:48>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:20:19>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:20:50>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:21:21>   Frame Rate = 23 mem Libre: 15 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:21:52>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:22:23>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:22:54>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:23:25>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:23:56>   Frame Rate = 23 mem Libre: 18 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:24:27>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:24:58>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:25:29>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:26:00>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:26:31>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:27:02>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:27:33>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:28:04>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 12:28:33>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Avanzando muestra
+<2014/09/11 12:28:35>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 12:28:48>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Avanzando muestra
+<2014/09/11 12:28:50>   Frame Rate = 23 mem Libre: 14 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 12:28:54>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Avanzando muestra
+<2014/09/11 12:28:56>   Frame Rate = 23 mem Libre: 20 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 12:29:02>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Avanzando muestra
+<2014/09/11 12:29:04>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 12:29:06>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Avanzando muestra
+<2014/09/11 12:29:08>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 12:29:38>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 12:30:09>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 12:30:10>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Avanzando muestra
+<2014/09/11 12:30:12>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 12:30:20>   Frame Rate = 22 mem Libre: 31 MB-min = 9   Avanzando muestra
+<2014/09/11 12:30:22>   Frame Rate = 23 mem Libre: 23 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 12:30:52>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 12:31:23>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 12:31:54>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 12:32:25>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 12:32:56>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 12:33:27>   Frame Rate = 23 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 12:33:58>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 12:34:29>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 12:35:00>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 12:35:31>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 12:36:02>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 12:36:33>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 12:37:04>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 12:37:35>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 12:38:06>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 12:38:37>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 12:39:08>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 12:39:39>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 12:40:10>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 12:40:16>   Frame Rate = 23 mem Libre: 20 MB-min = 9   Avanzando muestra
+<2014/09/11 12:40:18>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 12:40:19>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Avanzando muestra
+<2014/09/11 12:40:21>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 12:40:24>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Avanzando muestra
+<2014/09/11 12:40:25>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 12:40:56>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 12:41:27>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 12:41:58>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 12:42:29>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 12:43:00>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 12:43:31>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 12:43:52>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Avanzando muestra
+<2014/09/11 12:43:53>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 12:43:56>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Avanzando muestra
+<2014/09/11 12:43:58>   Frame Rate = 23 mem Libre: 21 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 12:43:59>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Avanzando muestra
+<2014/09/11 12:44:01>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 12:44:02>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Avanzando muestra
+<2014/09/11 12:44:04>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 12:44:21>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Avanzando muestra
+<2014/09/11 12:44:23>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 12:44:31>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Avanzando muestra
+<2014/09/11 12:44:33>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 12:44:36>   Frame Rate = 23 mem Libre: 18 MB-min = 9   Avanzando muestra
+<2014/09/11 12:44:37>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 12:44:52>   Frame Rate = 20 mem Libre: 16 MB-min = 9   Avanzando muestra
+<2014/09/11 12:44:53>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 12:45:02>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Avanzando muestra
+<2014/09/11 12:45:04>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 12:45:11>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Avanzando muestra
+<2014/09/11 12:45:12>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 12:45:43>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:46:14>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:46:45>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:47:16>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:47:47>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:48:18>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:48:49>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:49:20>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:49:51>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:50:22>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:50:53>   Frame Rate = 24 mem Libre: 24 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:51:24>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:51:55>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:52:26>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:52:57>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:53:28>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:53:59>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:54:30>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:55:01>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:55:32>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:56:03>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:56:34>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:57:05>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:57:36>   Frame Rate = 23 mem Libre: 15 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:58:07>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:58:38>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 12:59:01>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Avanzando muestra
+<2014/09/11 12:59:03>   Frame Rate = 23 mem Libre: 27 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 12:59:09>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Avanzando muestra
+<2014/09/11 12:59:10>   Frame Rate = 23 mem Libre: 14 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 12:59:20>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Avanzando muestra
+<2014/09/11 12:59:22>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 12:59:26>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Avanzando muestra
+<2014/09/11 12:59:28>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 12:59:33>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Avanzando muestra
+<2014/09/11 12:59:35>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 13:00:05>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:00:36>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:01:07>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:01:38>   Frame Rate = 20 mem Libre: 24 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:02:09>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:02:40>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:03:11>   Frame Rate = 20 mem Libre: 26 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:03:42>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:04:13>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:04:44>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:05:15>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:05:46>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:06:17>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:06:48>   Frame Rate = 20 mem Libre: 23 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:07:19>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:07:50>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:08:21>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:08:52>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:09:23>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:09:54>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:10:25>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:10:39>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Avanzando muestra
+<2014/09/11 13:10:41>   Frame Rate = 23 mem Libre: 17 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 13:10:46>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Avanzando muestra
+<2014/09/11 13:10:47>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 13:10:51>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Avanzando muestra
+<2014/09/11 13:10:52>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 13:10:55>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Avanzando muestra
+<2014/09/11 13:10:57>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 13:10:58>   Frame Rate = 23 mem Libre: 27 MB-min = 9   Avanzando muestra
+<2014/09/11 13:11:00>   Frame Rate = 23 mem Libre: 20 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 13:11:30>   Frame Rate = 23 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:12:01>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:12:32>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:13:03>   Frame Rate = 23 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:13:34>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:14:05>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:14:36>   Frame Rate = 23 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:15:07>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:15:38>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:16:09>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:16:40>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:17:11>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:17:42>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:18:13>   Frame Rate = 23 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:18:44>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:19:15>   Frame Rate = 23 mem Libre: 13 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:19:46>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:20:17>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:20:48>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:21:19>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:21:50>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:22:21>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:22:52>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:23:23>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:23:54>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:24:25>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:24:56>   Frame Rate = 23 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:25:27>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:25:58>   Frame Rate = 24 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:26:29>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:27:00>   Frame Rate = 23 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:27:31>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:28:02>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 13:28:16>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Avanzando muestra
+<2014/09/11 13:28:18>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 13:28:28>   Frame Rate = 20 mem Libre: 20 MB-min = 9   Avanzando muestra
+<2014/09/11 13:28:29>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 13:28:33>   Frame Rate = 22 mem Libre: 13 MB-min = 9   Avanzando muestra
+<2014/09/11 13:28:35>   Frame Rate = 23 mem Libre: 23 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 13:29:05>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:29:36>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:30:07>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:30:38>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:31:09>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:31:40>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:32:11>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:32:42>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:33:13>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:33:44>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:34:15>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:34:46>   Frame Rate = 20 mem Libre: 15 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:35:17>   Frame Rate = 20 mem Libre: 16 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:35:48>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:36:19>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:36:50>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:37:21>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:37:52>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:38:23>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:38:54>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:39:25>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:39:56>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:40:27>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:40:58>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:41:29>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:42:00>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:42:31>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:43:02>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:43:33>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:44:04>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:44:35>   Frame Rate = 23 mem Libre: 27 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:45:06>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:45:37>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 13:46:08>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Avanzando muestra
+<2014/09/11 13:46:08>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 100
+<2014/09/11 13:46:10>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 13:46:15>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Avanzando muestra
+<2014/09/11 13:46:17>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 13:46:21>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Avanzando muestra
+<2014/09/11 13:46:22>   Frame Rate = 23 mem Libre: 18 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 13:46:28>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Avanzando muestra
+<2014/09/11 13:46:29>   Frame Rate = 23 mem Libre: 22 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 13:46:33>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Avanzando muestra
+<2014/09/11 13:46:35>   Frame Rate = 23 mem Libre: 15 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 13:46:36>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Avanzando muestra
+<2014/09/11 13:46:38>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 13:46:40>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Avanzando muestra
+<2014/09/11 13:46:42>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 13:46:47>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Avanzando muestra
+<2014/09/11 13:46:48>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 13:46:51>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Avanzando muestra
+<2014/09/11 13:46:52>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 13:46:54>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Avanzando muestra
+<2014/09/11 13:46:56>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 13:46:58>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Avanzando muestra
+<2014/09/11 13:47:00>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 13:47:30>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 13:48:01>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Avanzando muestra
+<2014/09/11 13:48:01>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 100
+<2014/09/11 13:48:03>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 13:48:33>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:49:04>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:49:35>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:50:06>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:50:37>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:51:08>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:51:39>   Frame Rate = 21 mem Libre: 13 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:52:10>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:52:41>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:53:12>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:53:43>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:54:14>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:54:45>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:55:16>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:55:47>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:56:18>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:56:49>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:57:20>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:57:51>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:58:22>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:58:53>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:59:24>   Frame Rate = 23 mem Libre: 18 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 13:59:55>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:00:26>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:00:57>   Frame Rate = 20 mem Libre: 21 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:01:28>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:01:59>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:02:30>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:03:01>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:03:32>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:04:03>   Frame Rate = 23 mem Libre: 23 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:04:34>   Frame Rate = 23 mem Libre: 24 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:05:05>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:05:36>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:06:07>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:06:38>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:07:09>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:07:40>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:08:11>   Frame Rate = 20 mem Libre: 30 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:08:42>   Frame Rate = 22 mem Libre: 31 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:09:13>   Frame Rate = 22 mem Libre: 13 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:09:44>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:10:15>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:10:46>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:11:17>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:11:48>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:12:19>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:12:50>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:13:21>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:13:52>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:14:23>   Frame Rate = 23 mem Libre: 21 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:14:54>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:15:25>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:15:56>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:16:27>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:16:58>   Frame Rate = 23 mem Libre: 24 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:17:29>   Frame Rate = 23 mem Libre: 16 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:18:00>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:18:31>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:19:02>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 14:19:09>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Avanzando muestra
+<2014/09/11 14:19:11>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 14:19:25>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Avanzando muestra
+<2014/09/11 14:19:27>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 14:19:34>   Frame Rate = 23 mem Libre: 23 MB-min = 9   Avanzando muestra
+<2014/09/11 14:19:36>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 14:19:48>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Avanzando muestra
+<2014/09/11 14:19:50>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 14:20:04>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Avanzando muestra
+<2014/09/11 14:20:06>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 14:20:36>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:21:07>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:21:38>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:22:09>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:22:40>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:23:11>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:23:42>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:24:13>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:24:44>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:25:15>   Frame Rate = 20 mem Libre: 14 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:25:46>   Frame Rate = 23 mem Libre: 14 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:26:17>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:26:48>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:27:19>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:27:50>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:28:21>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:28:52>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:29:23>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:29:54>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:30:25>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:30:56>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:31:27>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:31:58>   Frame Rate = 20 mem Libre: 24 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:32:29>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:33:00>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 4
+<2014/09/11 14:33:06>   Frame Rate = 23 mem Libre: 20 MB-min = 9   Avanzando muestra
+<2014/09/11 14:33:07>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 14:33:09>   Frame Rate = 23 mem Libre: 24 MB-min = 9   Avanzando muestra
+<2014/09/11 14:33:10>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 14:33:17>   Frame Rate = 23 mem Libre: 22 MB-min = 9   Avanzando muestra
+<2014/09/11 14:33:19>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 14:33:45>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Avanzando muestra
+<2014/09/11 14:33:47>   Frame Rate = 23 mem Libre: 27 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 14:34:17>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:34:48>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:35:18>   Frame Rate = 21 mem Libre: 31 MB-min = 9   Avanzando muestra
+<2014/09/11 14:35:19>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 100
+<2014/09/11 14:35:20>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 14:35:23>   Frame Rate = 20 mem Libre: 25 MB-min = 9   Avanzando muestra
+<2014/09/11 14:35:25>   Frame Rate = 23 mem Libre: 17 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 14:35:34>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Avanzando muestra
+<2014/09/11 14:35:36>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 14:36:06>   Frame Rate = 20 mem Libre: 25 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 14:36:37>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 14:37:08>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 14:37:39>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 14:38:10>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 14:38:41>   Frame Rate = 25 mem Libre: 18 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 14:39:12>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 14:39:43>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 14:40:14>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 14:40:45>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 14:41:16>   Frame Rate = 23 mem Libre: 21 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 14:41:47>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 14:42:18>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 14:42:49>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 14:43:20>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 14:43:51>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 14:44:22>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 14:44:53>   Frame Rate = 20 mem Libre: 24 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 14:45:24>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 14:45:28>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Avanzando muestra
+<2014/09/11 14:45:29>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 14:45:52>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Avanzando muestra
+<2014/09/11 14:45:53>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 14:46:06>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Avanzando muestra
+<2014/09/11 14:46:08>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 14:46:18>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Avanzando muestra
+<2014/09/11 14:46:20>   Frame Rate = 23 mem Libre: 21 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 14:46:34>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Avanzando muestra
+<2014/09/11 14:46:35>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 14:46:51>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Avanzando muestra
+<2014/09/11 14:46:52>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 14:46:57>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Avanzando muestra
+<2014/09/11 14:46:59>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 14:47:29>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 14:48:00>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 14:48:31>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 14:49:02>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 14:49:18>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Avanzando muestra
+<2014/09/11 14:49:20>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 14:49:26>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Avanzando muestra
+<2014/09/11 14:49:27>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 14:49:29>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Avanzando muestra
+<2014/09/11 14:49:31>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 14:49:34>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Avanzando muestra
+<2014/09/11 14:49:35>   Frame Rate = 23 mem Libre: 24 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 14:49:39>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Avanzando muestra
+<2014/09/11 14:49:41>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 14:49:46>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Avanzando muestra
+<2014/09/11 14:49:48>   Frame Rate = 23 mem Libre: 22 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 14:50:18>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:50:49>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:51:20>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:51:51>   Frame Rate = 20 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:52:22>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:52:53>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:53:24>   Frame Rate = 23 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:53:55>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:54:26>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:54:57>   Frame Rate = 20 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:55:28>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:55:59>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:56:30>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:57:01>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:57:32>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:58:03>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:58:34>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:59:05>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 14:59:36>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:00:07>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:00:38>   Frame Rate = 20 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:01:09>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:01:40>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:02:11>   Frame Rate = 20 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:02:42>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:03:13>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:03:44>   Frame Rate = 20 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:04:15>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:04:46>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:05:17>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:05:48>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:06:19>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:06:50>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:07:21>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:07:52>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:08:23>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:08:54>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:09:25>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:09:56>   Frame Rate = 23 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:10:27>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:10:58>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:11:29>   Frame Rate = 20 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:12:00>   Frame Rate = 23 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:12:31>   Frame Rate = 22 mem Libre: 31 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:13:02>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:13:33>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:14:04>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:14:35>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:15:06>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:15:37>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:16:08>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:16:39>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:17:10>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:17:41>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:18:12>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:18:43>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:19:14>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:19:45>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:20:16>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:20:47>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:21:18>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:21:49>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:22:20>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:22:51>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:23:22>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:23:53>   Frame Rate = 24 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:24:24>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:24:55>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:25:26>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:25:57>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:26:28>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:26:59>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:27:30>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:28:01>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:28:32>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:29:03>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:29:34>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:30:05>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:30:36>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:31:07>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:31:38>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:32:09>   Frame Rate = 23 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:32:40>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:33:11>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:33:42>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:34:13>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:34:44>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:35:15>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:35:46>   Frame Rate = 23 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:36:17>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:36:48>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:37:19>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:37:50>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:38:21>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:38:52>   Frame Rate = 23 mem Libre: 31 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:39:23>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:39:54>   Frame Rate = 20 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:40:25>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:40:56>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:41:27>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:41:58>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:42:29>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:43:00>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:43:31>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:44:02>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:44:33>   Frame Rate = 23 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:45:04>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:45:35>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:46:06>   Frame Rate = 23 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:46:37>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:47:08>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:47:39>   Frame Rate = 23 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:48:10>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:48:41>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:49:12>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:49:43>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:50:14>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:50:45>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 15:51:02>   Frame Rate = 20 mem Libre: 18 MB-min = 9   Avanzando muestra
+<2014/09/11 15:51:04>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 15:51:07>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Avanzando muestra
+<2014/09/11 15:51:09>   Frame Rate = 23 mem Libre: 21 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 15:51:18>   Frame Rate = 20 mem Libre: 18 MB-min = 9   Avanzando muestra
+<2014/09/11 15:51:19>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 15:51:26>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Avanzando muestra
+<2014/09/11 15:51:28>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 15:51:30>   Frame Rate = 23 mem Libre: 16 MB-min = 9   Avanzando muestra
+<2014/09/11 15:51:32>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 15:51:37>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Avanzando muestra
+<2014/09/11 15:51:38>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 15:51:42>   Frame Rate = 23 mem Libre: 13 MB-min = 9   Avanzando muestra
+<2014/09/11 15:51:44>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 15:51:53>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Avanzando muestra
+<2014/09/11 15:51:55>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 15:52:06>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Avanzando muestra
+<2014/09/11 15:52:08>   Frame Rate = 23 mem Libre: 27 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 15:52:09>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Avanzando muestra
+<2014/09/11 15:52:11>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 15:52:15>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Avanzando muestra
+<2014/09/11 15:52:17>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 15:52:47>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 15:53:18>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 15:53:49>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 15:54:20>   Frame Rate = 21 mem Libre: 13 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 15:54:51>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 15:55:22>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 15:55:53>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 15:56:24>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 15:56:55>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 15:57:26>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 15:57:57>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 15:58:28>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 15:58:59>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 15:59:30>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:00:01>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:00:32>   Frame Rate = 23 mem Libre: 22 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:01:03>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:01:34>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:02:05>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:02:36>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:03:07>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:03:38>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:04:09>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:04:40>   Frame Rate = 23 mem Libre: 27 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:05:11>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:05:42>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:06:13>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:06:44>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:07:15>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:07:46>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:08:17>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:08:48>   Frame Rate = 23 mem Libre: 15 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:09:19>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:09:50>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:10:21>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:10:52>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:11:23>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:11:54>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:12:25>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:12:56>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:13:27>   Frame Rate = 23 mem Libre: 21 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:13:58>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:14:29>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:15:00>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:15:31>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:16:02>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:16:33>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:17:04>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:17:35>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:18:06>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:18:37>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:19:08>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:19:39>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:20:10>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:20:41>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:21:12>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:21:43>   Frame Rate = 23 mem Libre: 16 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:22:14>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:22:45>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:23:16>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:23:47>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:24:18>   Frame Rate = 23 mem Libre: 20 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:24:49>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:25:20>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:25:51>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:26:22>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:26:53>   Frame Rate = 23 mem Libre: 14 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:27:24>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:27:55>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:28:26>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:28:57>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:29:28>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:29:59>   Frame Rate = 23 mem Libre: 23 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:30:30>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:31:01>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 3
+<2014/09/11 16:31:23>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Avanzando muestra
+<2014/09/11 16:31:25>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 16:31:27>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Avanzando muestra
+<2014/09/11 16:31:28>   Frame Rate = 23 mem Libre: 24 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 16:31:59>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:32:02>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Avanzando muestra
+<2014/09/11 16:32:03>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 16:32:06>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Avanzando muestra
+<2014/09/11 16:32:08>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 16:32:11>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Avanzando muestra
+<2014/09/11 16:32:12>   Frame Rate = 23 mem Libre: 20 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 16:32:42>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 16:33:05>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Avanzando muestra
+<2014/09/11 16:33:06>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 16:33:13>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Avanzando muestra
+<2014/09/11 16:33:15>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 16:33:21>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Avanzando muestra
+<2014/09/11 16:33:22>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 16:33:26>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Avanzando muestra
+<2014/09/11 16:33:28>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 16:33:29>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Avanzando muestra
+<2014/09/11 16:33:31>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 16:33:34>   Frame Rate = 21 mem Libre: 13 MB-min = 9   Avanzando muestra
+<2014/09/11 16:33:35>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 16:33:39>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Avanzando muestra
+<2014/09/11 16:33:41>   Frame Rate = 23 mem Libre: 15 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 16:33:43>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Avanzando muestra
+<2014/09/11 16:33:44>   Frame Rate = 23 mem Libre: 18 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 16:33:49>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Avanzando muestra
+<2014/09/11 16:33:51>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 16:33:54>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Avanzando muestra
+<2014/09/11 16:33:55>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 16:33:57>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Avanzando muestra
+<2014/09/11 16:33:59>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 16:34:02>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Avanzando muestra
+<2014/09/11 16:34:04>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 16:34:20>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Avanzando muestra
+<2014/09/11 16:34:22>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 16:34:52>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:35:23>   Frame Rate = 19 mem Libre: 15 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:35:54>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:36:25>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:36:56>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:37:27>   Frame Rate = 23 mem Libre: 22 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:37:58>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:38:29>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:39:00>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:39:31>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:40:02>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:40:33>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:41:04>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:41:35>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:42:06>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:42:37>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:43:08>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:43:39>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:44:10>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:44:41>   Frame Rate = 20 mem Libre: 30 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:45:12>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:45:43>   Frame Rate = 20 mem Libre: 14 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:46:14>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:46:45>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:47:16>   Frame Rate = 23 mem Libre: 15 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:47:47>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:48:18>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 16:48:49>   Frame Rate = 23 mem Libre: 20 MB-min = 9   Avanzando muestra
+<2014/09/11 16:48:49>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Seguimos en muestra 100
+<2014/09/11 16:48:51>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 16:49:01>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Avanzando muestra
+<2014/09/11 16:49:02>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 16:49:12>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Avanzando muestra
+<2014/09/11 16:49:13>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 16:49:18>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Avanzando muestra
+<2014/09/11 16:49:19>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 16:49:23>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Avanzando muestra
+<2014/09/11 16:49:25>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 16:49:30>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Avanzando muestra
+<2014/09/11 16:49:32>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 16:49:43>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Avanzando muestra
+<2014/09/11 16:49:45>   Frame Rate = 23 mem Libre: 20 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 16:49:48>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Avanzando muestra
+<2014/09/11 16:49:50>   Frame Rate = 23 mem Libre: 13 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 16:49:52>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Avanzando muestra
+<2014/09/11 16:49:54>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 16:50:00>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Avanzando muestra
+<2014/09/11 16:50:02>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 16:50:32>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 16:51:03>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 16:51:34>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 16:52:05>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 16:52:07>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Avanzando muestra
+<2014/09/11 16:52:09>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 16:52:30>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Avanzando muestra
+<2014/09/11 16:52:31>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 16:52:34>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Avanzando muestra
+<2014/09/11 16:52:35>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 16:52:39>   Frame Rate = 20 mem Libre: 16 MB-min = 9   Avanzando muestra
+<2014/09/11 16:52:41>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 16:52:52>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Avanzando muestra
+<2014/09/11 16:52:54>   Frame Rate = 23 mem Libre: 20 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 16:53:01>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Avanzando muestra
+<2014/09/11 16:53:03>   Frame Rate = 23 mem Libre: 14 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 16:53:07>   Frame Rate = 22 mem Libre: 13 MB-min = 9   Avanzando muestra
+<2014/09/11 16:53:09>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 16:53:39>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 16:54:10>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 16:54:41>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 16:55:12>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 16:55:43>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 16:56:14>   Frame Rate = 23 mem Libre: 27 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 16:56:45>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 16:57:16>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 16:57:47>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 6
+<2014/09/11 16:57:52>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Avanzando muestra
+<2014/09/11 16:57:54>   Frame Rate = 23 mem Libre: 18 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 16:58:24>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 16:58:55>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 16:59:26>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 16:59:57>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:00:28>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:00:59>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:01:30>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:02:01>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:02:32>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:03:03>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:03:34>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:04:05>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:04:36>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:05:07>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:05:38>   Frame Rate = 23 mem Libre: 27 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:06:09>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:06:40>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:07:11>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:07:42>   Frame Rate = 19 mem Libre: 29 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:08:13>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:08:44>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:09:15>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:09:46>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:10:17>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:10:48>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:11:19>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:11:50>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:12:21>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:12:52>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:13:23>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:13:54>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:14:25>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:14:56>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:15:27>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:15:58>   Frame Rate = 23 mem Libre: 21 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:16:29>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:17:00>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:17:31>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:18:02>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:18:33>   Frame Rate = 20 mem Libre: 24 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:19:04>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:19:35>   Frame Rate = 20 mem Libre: 24 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:20:06>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:20:37>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:21:08>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:21:39>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:22:10>   Frame Rate = 20 mem Libre: 26 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:22:41>   Frame Rate = 23 mem Libre: 27 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:23:12>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:23:43>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:24:14>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:24:45>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:25:16>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:25:47>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:26:18>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:26:49>   Frame Rate = 22 mem Libre: 31 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:27:20>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:27:51>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:28:22>   Frame Rate = 23 mem Libre: 17 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:28:53>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:29:15>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Avanzando muestra
+<2014/09/11 17:29:17>   Frame Rate = 23 mem Libre: 17 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 17:29:31>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Avanzando muestra
+<2014/09/11 17:29:33>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 17:29:36>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Avanzando muestra
+<2014/09/11 17:29:37>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 17:29:42>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Avanzando muestra
+<2014/09/11 17:29:44>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 17:29:59>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Avanzando muestra
+<2014/09/11 17:30:00>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 17:30:04>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Avanzando muestra
+<2014/09/11 17:30:05>   Frame Rate = 23 mem Libre: 17 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 17:30:12>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Avanzando muestra
+<2014/09/11 17:30:13>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 17:30:21>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Avanzando muestra
+<2014/09/11 17:30:23>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 17:30:53>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:31:24>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:31:55>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:32:26>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:32:57>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:33:28>   Frame Rate = 23 mem Libre: 17 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:33:59>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 17:34:05>   Frame Rate = 23 mem Libre: 27 MB-min = 9   Avanzando muestra
+<2014/09/11 17:34:07>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 17:34:37>   Frame Rate = 23 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 17:34:42>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Avanzando muestra
+<2014/09/11 17:34:43>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 17:35:14>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 17:35:18>   Frame Rate = 23 mem Libre: 16 MB-min = 9   Avanzando muestra
+<2014/09/11 17:35:20>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 17:35:33>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Avanzando muestra
+<2014/09/11 17:35:35>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 17:35:59>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Avanzando muestra
+<2014/09/11 17:36:00>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 17:36:14>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Avanzando muestra
+<2014/09/11 17:36:15>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 17:36:29>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Avanzando muestra
+<2014/09/11 17:36:31>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 17:36:46>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Avanzando muestra
+<2014/09/11 17:36:48>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 17:37:00>   Frame Rate = 23 mem Libre: 14 MB-min = 9   Avanzando muestra
+<2014/09/11 17:37:02>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 17:37:13>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Avanzando muestra
+<2014/09/11 17:37:15>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 17:37:21>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Avanzando muestra
+<2014/09/11 17:37:23>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 17:37:53>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:38:24>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:38:55>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:39:26>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:39:57>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:40:28>   Frame Rate = 23 mem Libre: 21 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:40:59>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:41:30>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:42:01>   Frame Rate = 23 mem Libre: 23 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:42:32>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:43:03>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:43:34>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:44:05>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:44:36>   Frame Rate = 20 mem Libre: 26 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:45:07>   Frame Rate = 23 mem Libre: 27 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:45:38>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:46:09>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:46:40>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:47:11>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:47:42>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 2
+<2014/09/11 17:48:05>   Frame Rate = 20 mem Libre: 16 MB-min = 9   Avanzando muestra
+<2014/09/11 17:48:07>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 17:48:15>   Frame Rate = 23 mem Libre: 24 MB-min = 9   Avanzando muestra
+<2014/09/11 17:48:17>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 17:48:26>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Avanzando muestra
+<2014/09/11 17:48:27>   Frame Rate = 23 mem Libre: 20 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 17:48:32>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Avanzando muestra
+<2014/09/11 17:48:34>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 17:48:40>   Frame Rate = 23 mem Libre: 17 MB-min = 9   Avanzando muestra
+<2014/09/11 17:48:41>   Frame Rate = 23 mem Libre: 27 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 17:48:45>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Avanzando muestra
+<2014/09/11 17:48:46>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 17:49:17>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 17:49:48>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 17:50:19>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 17:50:50>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 17:51:00>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Avanzando muestra
+<2014/09/11 17:51:02>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 17:51:04>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Avanzando muestra
+<2014/09/11 17:51:06>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 17:51:09>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Avanzando muestra
+<2014/09/11 17:51:10>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 17:51:20>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Avanzando muestra
+<2014/09/11 17:51:21>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 17:51:23>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Avanzando muestra
+<2014/09/11 17:51:25>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 17:51:27>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Avanzando muestra
+<2014/09/11 17:51:28>   Frame Rate = 23 mem Libre: 15 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 17:51:30>   Frame Rate = 23 mem Libre: 24 MB-min = 9   Avanzando muestra
+<2014/09/11 17:51:32>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 17:51:34>   Frame Rate = 23 mem Libre: 27 MB-min = 9   Avanzando muestra
+<2014/09/11 17:51:35>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 17:51:41>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Avanzando muestra
+<2014/09/11 17:51:42>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 17:52:12>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 17:52:43>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 17:53:14>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 17:53:45>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 17:54:16>   Frame Rate = 23 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 17:54:47>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 17:55:18>   Frame Rate = 23 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 17:55:49>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 17:56:20>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 17:56:51>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 17:57:22>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 17:57:53>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 17:58:03>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Avanzando muestra
+<2014/09/11 17:58:05>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 17:58:14>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Avanzando muestra
+<2014/09/11 17:58:16>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 17:58:22>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Avanzando muestra
+<2014/09/11 17:58:24>   Frame Rate = 23 mem Libre: 23 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 17:58:34>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Avanzando muestra
+<2014/09/11 17:58:36>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 17:59:06>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 17:59:37>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 18:00:08>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 18:00:39>   Frame Rate = 20 mem Libre: 28 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 18:01:10>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 18:01:41>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 18:02:12>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 18:02:43>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 5
+<2014/09/11 18:02:47>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Avanzando muestra
+<2014/09/11 18:02:49>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 18:02:59>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Avanzando muestra
+<2014/09/11 18:03:01>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 18:03:04>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Avanzando muestra
+<2014/09/11 18:03:06>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 18:03:36>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:04:07>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:04:38>   Frame Rate = 23 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:05:09>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:05:37>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Avanzando muestra
+<2014/09/11 18:05:39>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 18:05:42>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Avanzando muestra
+<2014/09/11 18:05:44>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/11 18:05:46>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Avanzando muestra
+<2014/09/11 18:05:47>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Muestra 2 -> 3	Larvas de Lubrigante	
+<2014/09/11 18:05:51>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Avanzando muestra
+<2014/09/11 18:05:53>   Frame Rate = 22 mem Libre: 13 MB-min = 9   Muestra 3 -> 4	Larvas de Rodaballo	
+<2014/09/11 18:05:54>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Avanzando muestra
+<2014/09/11 18:05:56>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Muestra 4 -> 5	Larvas de Lubina	
+<2014/09/11 18:05:59>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Avanzando muestra
+<2014/09/11 18:06:01>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Muestra 5 -> 6	Larvas de Santiaguiño	
+<2014/09/11 18:06:03>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Avanzando muestra
+<2014/09/11 18:06:05>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Muestra 6 -> 7	Semilla de Oreja de mar	
+<2014/09/11 18:06:35>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 18:07:06>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 18:07:37>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 18:08:08>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 18:08:39>   Frame Rate = 23 mem Libre: 16 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 18:09:10>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 18:09:41>   Frame Rate = 23 mem Libre: 17 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 18:10:12>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 18:10:43>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 18:11:14>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 18:11:45>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 18:12:16>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 18:12:47>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 18:13:18>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 7
+<2014/09/11 18:13:21>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Avanzando muestra
+<2014/09/11 18:13:23>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Muestra 7 -> 0	Semilla de mejillón	
+<2014/09/11 18:13:53>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:14:24>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:14:55>   Frame Rate = 23 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:15:26>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:15:57>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:16:28>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:16:59>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:17:30>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:18:01>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:18:32>   Frame Rate = 23 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:19:03>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:19:34>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:20:05>   Frame Rate = 23 mem Libre: 15 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:20:36>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:21:07>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:21:38>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:22:09>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:22:40>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:23:11>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:23:42>   Frame Rate = 23 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:24:13>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:24:44>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:25:15>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:25:46>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 0
+<2014/09/11 18:25:54>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Avanzando muestra
+<2014/09/11 18:25:56>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Muestra 0 -> 1	Rotífero	
+<2014/09/11 18:26:26>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:26:57>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:27:28>   Frame Rate = 23 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:27:59>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:28:30>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:29:01>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:29:32>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:30:03>   Frame Rate = 20 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:30:34>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:31:05>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:31:36>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:32:07>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:32:38>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:33:09>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:33:40>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:34:11>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:34:42>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:35:13>   Frame Rate = 22 mem Libre: 13 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:35:44>   Frame Rate = 20 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:36:15>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:36:46>   Frame Rate = 23 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:37:17>   Frame Rate = 20 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:37:48>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:38:19>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:38:50>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:39:21>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:39:52>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:40:23>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:40:54>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:41:25>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:41:56>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:42:27>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:42:58>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:43:29>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:44:00>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:44:31>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:45:02>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:45:33>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:46:04>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:46:35>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:47:06>   Frame Rate = 23 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:47:37>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:48:08>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:48:39>   Frame Rate = 20 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:49:10>   Frame Rate = 23 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:49:41>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:50:12>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:50:43>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:51:14>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:51:45>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:52:16>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:52:47>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:53:18>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:53:49>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:54:20>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:54:51>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:55:22>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:55:53>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:56:24>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:56:55>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:57:26>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:57:57>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:58:28>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:58:59>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 18:59:30>   Frame Rate = 23 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:00:01>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:00:32>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:01:03>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:01:34>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:02:05>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:02:36>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:03:07>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:03:38>   Frame Rate = 24 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:04:09>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:04:40>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:05:11>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:05:42>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:06:13>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:06:44>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:07:15>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:07:46>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:08:17>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:08:48>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:09:19>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:09:50>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:10:21>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:10:52>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:11:23>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:11:54>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:12:25>   Frame Rate = 22 mem Libre: 13 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:12:56>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:13:27>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:13:58>   Frame Rate = 23 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:14:29>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:15:00>   Frame Rate = 23 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:15:31>   Frame Rate = 20 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:16:02>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:16:33>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:17:04>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:17:35>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:18:06>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:18:37>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:19:08>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:19:39>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:20:10>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:20:41>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:21:12>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:21:43>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:22:14>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:22:45>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:23:16>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:23:47>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:24:18>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:24:49>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:25:20>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:25:51>   Frame Rate = 20 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:26:22>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:26:53>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:27:24>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:27:55>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:28:26>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:28:57>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:29:28>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:29:59>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:30:30>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:31:01>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:31:32>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:32:03>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:32:34>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:33:05>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:33:36>   Frame Rate = 23 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:34:07>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:34:38>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:35:09>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:35:40>   Frame Rate = 20 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:36:11>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:36:42>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:37:13>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:37:44>   Frame Rate = 23 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:38:15>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:38:46>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:39:17>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:39:48>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:40:19>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:40:50>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:41:21>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:41:52>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:42:23>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:42:54>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:43:25>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:43:56>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:44:27>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:44:58>   Frame Rate = 24 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:45:29>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:46:00>   Frame Rate = 20 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:46:31>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:47:02>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:47:33>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:48:04>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:48:35>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:49:06>   Frame Rate = 21 mem Libre: 13 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:49:37>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:50:08>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:50:39>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:51:10>   Frame Rate = 20 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:51:41>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:52:12>   Frame Rate = 20 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:52:43>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:53:14>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:53:45>   Frame Rate = 20 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:54:16>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:54:47>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:55:18>   Frame Rate = 23 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:55:49>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:56:20>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:56:51>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:57:22>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:57:53>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:58:24>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:58:55>   Frame Rate = 20 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:59:26>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 19:59:57>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:00:28>   Frame Rate = 23 mem Libre: 13 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:00:59>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:01:30>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:02:01>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:02:32>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:03:03>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:03:34>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:04:05>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:04:36>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:05:07>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:05:38>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:06:09>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:06:40>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:07:11>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:07:42>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:08:13>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:08:44>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:09:15>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:09:46>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:10:17>   Frame Rate = 20 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:10:48>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:11:19>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:11:50>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:12:21>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:12:52>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:13:23>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:13:54>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:14:25>   Frame Rate = 23 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:14:56>   Frame Rate = 23 mem Libre: 13 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:15:27>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:15:58>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:16:29>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:17:00>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:17:31>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:18:02>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:18:33>   Frame Rate = 22 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:19:04>   Frame Rate = 22 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:19:35>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:20:06>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:20:37>   Frame Rate = 23 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:21:08>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:21:39>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:22:10>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:22:41>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:23:12>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:23:43>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:24:14>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:24:45>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:25:16>   Frame Rate = 22 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:25:47>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:26:18>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:26:49>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:27:20>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:27:51>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:28:22>   Frame Rate = 23 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:28:53>   Frame Rate = 23 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:29:24>   Frame Rate = 23 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:29:55>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:30:26>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:30:57>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:31:28>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:31:59>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:32:30>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:33:01>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:33:32>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:34:03>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:34:34>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:35:05>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:35:36>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:36:07>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:36:38>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:37:09>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:37:40>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:38:11>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:38:42>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:39:13>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:39:44>   Frame Rate = 23 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:40:15>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:40:46>   Frame Rate = 23 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:41:17>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:41:48>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:42:19>   Frame Rate = 23 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:42:50>   Frame Rate = 21 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:43:21>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:43:52>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:44:23>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:44:54>   Frame Rate = 22 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:45:25>   Frame Rate = 20 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:45:56>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:46:27>   Frame Rate = 21 mem Libre: 16 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:46:58>   Frame Rate = 20 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:47:29>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:48:00>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:48:31>   Frame Rate = 18 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:49:02>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:49:33>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:50:04>   Frame Rate = 21 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:50:35>   Frame Rate = 21 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:51:06>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:51:37>   Frame Rate = 22 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:52:08>   Frame Rate = 20 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:52:39>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:53:10>   Frame Rate = 21 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:53:41>   Frame Rate = 23 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:54:12>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:54:43>   Frame Rate = 23 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:55:14>   Frame Rate = 21 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:55:45>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:56:16>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:56:47>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:57:18>   Frame Rate = 22 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:57:49>   Frame Rate = 21 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:58:20>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:58:51>   Frame Rate = 21 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:59:22>   Frame Rate = 23 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 20:59:53>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:00:24>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:00:55>   Frame Rate = 21 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:01:26>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:01:57>   Frame Rate = 20 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:02:28>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:02:59>   Frame Rate = 22 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:03:30>   Frame Rate = 23 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:04:01>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:04:32>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:05:03>   Frame Rate = 20 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:05:34>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:06:05>   Frame Rate = 22 mem Libre: 16 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:06:36>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:07:07>   Frame Rate = 21 mem Libre: 17 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:07:38>   Frame Rate = 20 mem Libre: 18 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:08:09>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:08:40>   Frame Rate = 21 mem Libre: 19 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:09:11>   Frame Rate = 21 mem Libre: 20 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:09:42>   Frame Rate = 22 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:10:13>   Frame Rate = 21 mem Libre: 21 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:10:44>   Frame Rate = 22 mem Libre: 22 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:11:15>   Frame Rate = 22 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:11:46>   Frame Rate = 23 mem Libre: 23 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:12:17>   Frame Rate = 22 mem Libre: 24 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:12:48>   Frame Rate = 21 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:13:19>   Frame Rate = 23 mem Libre: 25 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:13:50>   Frame Rate = 21 mem Libre: 26 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:14:21>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:14:52>   Frame Rate = 22 mem Libre: 27 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:15:23>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:15:54>   Frame Rate = 22 mem Libre: 28 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:16:25>   Frame Rate = 22 mem Libre: 29 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:16:56>   Frame Rate = 20 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:17:27>   Frame Rate = 22 mem Libre: 30 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:17:58>   Frame Rate = 21 mem Libre: 14 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:18:29>   Frame Rate = 21 mem Libre: 15 MB-min = 9   Seguimos en muestra 1
+<2014/09/11 21:19:00>   Frame Rate = 22 mem Libre: 20 MB-min = 9   Seguimos en muestra 1

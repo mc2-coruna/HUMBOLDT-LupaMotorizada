@@ -1,0 +1,7 @@
+<2014/09/08 23:30:45>      Frame Rate = 10    mem Libre: 32 MB   Cargada imagenImagen.png
+<2014/09/08 23:30:45>      Frame Rate = 10    mem Libre: 32 MB   Establecido frameRate = 30
+<2014/09/08 23:30:45>      Frame Rate = 10    mem Libre: 32 MB   Tamaño pantalla = 1440 x 900
+<2014/09/08 23:30:53>      Frame Rate = 10    mem Libre: 36 MB   Inicializada cámara name=FaceTime Camera (Built-in),size=640x480,fps=30
+<2014/09/08 23:30:53>      Frame Rate = 10    mem Libre: 30 MB   Copiados los ficheros de datos
+<2014/09/08 23:30:53>      Frame Rate = 10    mem Libre: 29 MB   No hay puertos USB disponibles
+<2014/09/08 23:30:53>      Frame Rate = 9    mem Libre: 26 MB   Muestra 0 -> 4	Larvas de Rodaballo	
