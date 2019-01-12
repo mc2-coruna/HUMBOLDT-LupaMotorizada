@@ -1,0 +1,2 @@
+<2016/08/17 17:41:59>   Frame Rate = 10 mem Libre: 52 MB-min = 52   Cargada imagenImagen.png
+<2016/08/17 17:41:59>   Frame Rate = 10 mem Libre: 52 MB-min = 52   Establecido frameRate = 30

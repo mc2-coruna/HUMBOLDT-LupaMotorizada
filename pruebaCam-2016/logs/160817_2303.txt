@@ -1,0 +1,7 @@
+<2016/08/17 23:03:24>   Frame Rate = 10 mem Libre: 31 MB-min = 31   Cargada imagenImagen.png
+<2016/08/17 23:03:24>   Frame Rate = 10 mem Libre: 31 MB-min = 31   Establecido frameRate = 30
+<2016/08/17 23:03:24>   Frame Rate = 10 mem Libre: 31 MB-min = 31   Tamaño pantalla = 1440 x 900
+<2016/08/17 23:03:32>   Frame Rate = 10 mem Libre: 35 MB-min = 31   Inicializada cámara name=Cámara FaceTime (integrada),size=640x480,fps=30
+<2016/08/17 23:03:32>   Frame Rate = 10 mem Libre: 29 MB-min = 29   Copiados los ficheros de datos
+<2016/08/17 23:03:32>   Frame Rate = 10 mem Libre: 29 MB-min = 29   No hay puertos USB disponibles
+<2016/08/17 23:03:33>   Frame Rate = 9 mem Libre: 26 MB-min = 26   Muestra 0 -> 4	Larvas de Rodaballo	

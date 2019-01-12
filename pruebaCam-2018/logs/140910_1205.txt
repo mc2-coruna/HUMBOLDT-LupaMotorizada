@@ -1,0 +1,22 @@
+<2014/09/10 12:05:25>   Frame Rate = 10 mem Libre: 11 MB-min = 11   Cargada imagenImagen.png
+<2014/09/10 12:05:25>   Frame Rate = 10 mem Libre: 11 MB-min = 11   Establecido frameRate = 30
+<2014/09/10 12:05:25>   Frame Rate = 10 mem Libre: 11 MB-min = 11   Tamaño pantalla = 1600 x 900
+<2014/09/10 12:05:38>   Frame Rate = 10 mem Libre: 14 MB-min = 11   Inicializada cámara name=Logitech Camera,size=1280x960,fps=30
+<2014/09/10 12:05:38>   Frame Rate = 10 mem Libre: 8 MB-min = 8   Copiados los ficheros de datos
+INVOCANDO EL GARBAGE COLLECTOR ... 
+<2014/09/10 12:05:38>   Frame Rate = 10 mem Libre: 22 MB  (1)   Copiados los ficheros de datos
+<2014/09/10 12:05:39>   Frame Rate = 10 mem Libre: 21 MB-min = 8   Abierto el puerto /dev/tty.usbmodem621 a 9600 bps
+<2014/09/10 12:05:39>   Frame Rate = 9 mem Libre: 8 MB-min = 8   Muestra 0 -> 4	Larvas de Rodaballo	
+INVOCANDO EL GARBAGE COLLECTOR ... 
+<2014/09/10 12:05:39>   Frame Rate = 9 mem Libre: 12 MB  (1)   Muestra 0 -> 4	Larvas de Rodaballo	
+<2014/09/10 12:05:40>   Frame Rate = 8 mem Libre: 30 MB-min = 8   Avanzando muestra
+<2014/09/10 12:05:41>   Frame Rate = 29 mem Libre: 22 MB-min = 8   Muestra 4 -> 2	Larvas de Artemia	
+<2014/09/10 12:05:42>   Frame Rate = 19 mem Libre: 19 MB-min = 8   Avanzando muestra
+<2014/09/10 12:05:44>   Frame Rate = 29 mem Libre: 22 MB-min = 8   Muestra 2 -> 2	Larvas de Artemia	
+<2014/09/10 12:05:45>   Frame Rate = 20 mem Libre: 19 MB-min = 8   Avanzando muestra
+<2014/09/10 12:05:47>   Frame Rate = 29 mem Libre: 22 MB-min = 8   Muestra 2 -> 2	Larvas de Artemia	
+<2014/09/10 12:05:48>   Frame Rate = 22 mem Libre: 19 MB-min = 8   Avanzando muestra
+<2014/09/10 12:05:50>   Frame Rate = 29 mem Libre: 21 MB-min = 8   Muestra 2 -> 2	Larvas de Artemia	
+<2014/09/10 12:05:51>   Frame Rate = 21 mem Libre: 28 MB-min = 8   Avanzando muestra
+<2014/09/10 12:05:53>   Frame Rate = 30 mem Libre: 21 MB-min = 8   Muestra 2 -> 2	Larvas de Artemia	
+<2014/09/10 12:05:54>   Frame Rate = 22 mem Libre: 27 MB-min = 8   Avanzando muestra

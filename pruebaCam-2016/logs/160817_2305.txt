@@ -1,0 +1,3 @@
+<2016/08/17 23:05:55>   Frame Rate = 10 mem Libre: 45 MB-min = 45   Cargada imagenImagen.png
+<2016/08/17 23:05:55>   Frame Rate = 10 mem Libre: 45 MB-min = 45   Establecido frameRate = 30
+<2016/08/17 23:05:55>   Frame Rate = 10 mem Libre: 45 MB-min = 45   Tamaño pantalla = 1440 x 900

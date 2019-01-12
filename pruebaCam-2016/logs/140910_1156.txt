@@ -1,0 +1,36 @@
+<2014/09/10 11:56:12>   Frame Rate = 10 mem Libre: 12 MB-min = 12   Cargada imagenImagen.png
+<2014/09/10 11:56:12>   Frame Rate = 10 mem Libre: 12 MB-min = 12   Establecido frameRate = 30
+<2014/09/10 11:56:12>   Frame Rate = 10 mem Libre: 12 MB-min = 12   Tamaño pantalla = 1600 x 900
+<2014/09/10 11:56:20>   Frame Rate = 10 mem Libre: 36 MB-min = 12   Inicializada cámara name=Logitech Camera,size=1280x960,fps=30
+<2014/09/10 11:56:20>   Frame Rate = 10 mem Libre: 30 MB-min = 12   Copiados los ficheros de datos
+<2014/09/10 11:56:20>   Frame Rate = 10 mem Libre: 29 MB-min = 12   Abierto el puerto /dev/tty.usbmodem621 a 9600 bps
+<2014/09/10 11:56:21>   Frame Rate = 9 mem Libre: 15 MB-min = 12   Muestra 0 -> 1	Rotífero	
+<2014/09/10 11:56:21>   Frame Rate = 8 mem Libre: 10 MB-min = 10   Avanzando muestra
+<2014/09/10 11:56:23>   Frame Rate = 27 mem Libre: 49 MB-min = 10   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/10 11:56:24>   Frame Rate = 18 mem Libre: 38 MB-min = 10   Avanzando muestra
+<2014/09/10 11:56:26>   Frame Rate = 26 mem Libre: 67 MB-min = 10   Muestra 2 -> 2	Larvas de Artemia	
+<2014/09/10 11:56:27>   Frame Rate = 21 mem Libre: 60 MB-min = 10   Avanzando muestra
+<2014/09/10 11:56:28>   Frame Rate = 26 mem Libre: 46 MB-min = 10   Muestra 2 -> 2	Larvas de Artemia	
+<2014/09/10 11:56:29>   Frame Rate = 21 mem Libre: 38 MB-min = 10   Avanzando muestra
+<2014/09/10 11:56:31>   Frame Rate = 27 mem Libre: 61 MB-min = 10   Muestra 2 -> 2	Larvas de Artemia	
+<2014/09/10 11:56:32>   Frame Rate = 21 mem Libre: 54 MB-min = 10   Avanzando muestra
+<2014/09/10 11:56:34>   Frame Rate = 27 mem Libre: 40 MB-min = 10   Muestra 2 -> 2	Larvas de Artemia	
+<2014/09/10 11:56:35>   Frame Rate = 22 mem Libre: 32 MB-min = 10   Avanzando muestra
+<2014/09/10 11:56:37>   Frame Rate = 29 mem Libre: 59 MB-min = 10   Muestra 2 -> 2	Larvas de Artemia	
+<2014/09/10 11:56:38>   Frame Rate = 21 mem Libre: 50 MB-min = 10   Avanzando muestra
+<2014/09/10 11:56:39>   Frame Rate = 26 mem Libre: 35 MB-min = 10   Muestra 2 -> 0**	Semilla de mejillón	
+<2014/09/10 11:57:10>   Frame Rate = 24 mem Libre: 52 MB-min = 10   Seguimos en muestra 0
+<2014/09/10 11:57:41>   Frame Rate = 21 mem Libre: 84 MB-min = 10   Seguimos en muestra 0
+<2014/09/10 11:58:12>   Frame Rate = 23 mem Libre: 47 MB-min = 10   Seguimos en muestra 0
+<2014/09/10 11:58:43>   Frame Rate = 23 mem Libre: 40 MB-min = 10   Seguimos en muestra 0
+<2014/09/10 11:59:14>   Frame Rate = 21 mem Libre: 88 MB-min = 10   Seguimos en muestra 0
+<2014/09/10 11:59:45>   Frame Rate = 23 mem Libre: 40 MB-min = 10   Seguimos en muestra 0
+<2014/09/10 12:00:16>   Frame Rate = 22 mem Libre: 60 MB-min = 10   Seguimos en muestra 0
+<2014/09/10 12:00:47>   Frame Rate = 21 mem Libre: 69 MB-min = 10   Seguimos en muestra 0
+<2014/09/10 12:01:18>   Frame Rate = 23 mem Libre: 59 MB-min = 10   Seguimos en muestra 0
+<2014/09/10 12:01:49>   Frame Rate = 22 mem Libre: 55 MB-min = 10   Seguimos en muestra 0
+<2014/09/10 12:01:52>   Frame Rate = 21 mem Libre: 36 MB-min = 10   Avanzando muestra
+<2014/09/10 12:01:54>   Frame Rate = 23 mem Libre: 23 MB-min = 10   Muestra 0 -> 1	Rotífero	
+<2014/09/10 12:01:59>   Frame Rate = 21 mem Libre: 55 MB-min = 10   Avanzando muestra
+<2014/09/10 12:02:01>   Frame Rate = 22 mem Libre: 42 MB-min = 10   Muestra 1 -> 2	Larvas de Artemia	
+<2014/09/10 12:02:32>   Frame Rate = 21 mem Libre: 30 MB-min = 10   Seguimos en muestra 2

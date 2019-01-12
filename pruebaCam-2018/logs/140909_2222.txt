@@ -1,0 +1,24 @@
+<2014/09/09 22:22:56>   Frame Rate = 10 mem Libre: 32 MB-min = 32   Cargada imagenImagen.png
+<2014/09/09 22:22:56>   Frame Rate = 10 mem Libre: 32 MB-min = 32   Establecido frameRate = 30
+<2014/09/09 22:22:56>   Frame Rate = 10 mem Libre: 32 MB-min = 32   Tamaño pantalla = 1440 x 900
+<2014/09/09 22:23:04>   Frame Rate = 10 mem Libre: 35 MB-min = 32   Inicializada cámara name=FaceTime Camera (Built-in),size=640x480,fps=30
+<2014/09/09 22:23:04>   Frame Rate = 10 mem Libre: 30 MB-min = 30   Copiados los ficheros de datos
+<2014/09/09 22:23:04>   Frame Rate = 10 mem Libre: 29 MB-min = 29   No hay puertos USB disponibles
+<2014/09/09 22:23:04>   Frame Rate = 9 mem Libre: 26 MB-min = 26   Muestra 0 -> 4	Larvas de Rodaballo	
+<2014/09/09 22:23:35>   Frame Rate = 30 mem Libre: 72 MB-min = 26   Seguimos en muestra 4
+<2014/09/09 22:24:06>   Frame Rate = 30 mem Libre: 52 MB-min = 26   Seguimos en muestra 4
+<2014/09/09 22:24:37>   Frame Rate = 30 mem Libre: 55 MB-min = 26   Seguimos en muestra 4
+<2014/09/09 22:25:08>   Frame Rate = 30 mem Libre: 48 MB-min = 26   Seguimos en muestra 4
+<2014/09/09 22:25:39>   Frame Rate = 30 mem Libre: 56 MB-min = 26   Seguimos en muestra 4
+<2014/09/09 22:26:10>   Frame Rate = 30 mem Libre: 51 MB-min = 26   Seguimos en muestra 4
+<2014/09/09 22:26:41>   Frame Rate = 30 mem Libre: 54 MB-min = 26   Seguimos en muestra 4
+<2014/09/09 22:27:12>   Frame Rate = 30 mem Libre: 43 MB-min = 26   Seguimos en muestra 4
+<2014/09/09 22:27:43>   Frame Rate = 30 mem Libre: 52 MB-min = 26   Seguimos en muestra 4
+<2014/09/09 22:28:14>   Frame Rate = 30 mem Libre: 43 MB-min = 26   Seguimos en muestra 4
+<2014/09/09 22:28:45>   Frame Rate = 30 mem Libre: 55 MB-min = 26   Seguimos en muestra 4
+<2014/09/09 22:29:16>   Frame Rate = 30 mem Libre: 48 MB-min = 26   Seguimos en muestra 4
+<2014/09/09 22:29:47>   Frame Rate = 30 mem Libre: 59 MB-min = 26   Seguimos en muestra 4
+<2014/09/09 22:30:18>   Frame Rate = 30 mem Libre: 50 MB-min = 26   Seguimos en muestra 4
+<2014/09/09 22:30:49>   Frame Rate = 30 mem Libre: 46 MB-min = 26   Seguimos en muestra 4
+<2014/09/09 22:31:20>   Frame Rate = 30 mem Libre: 57 MB-min = 26   Seguimos en muestra 4
+<2014/09/09 22:31:51>   Frame Rate = 30 mem Libre: 49 MB-min = 26   Seguimos en muestra 4
